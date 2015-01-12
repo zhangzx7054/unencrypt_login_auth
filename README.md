@@ -1,0 +1,2 @@
+# unencrypt_login_auth
+由于在go的标准库里没有实现，因此就用go语言实现smtp的非加密认证和login认证这两种方式。
